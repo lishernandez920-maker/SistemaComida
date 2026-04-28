@@ -1,0 +1,80 @@
+## Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de compilación
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+## Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Archivos de configuración local
+*.local.json
+*.config
+*.launchSettings.json
+
+## Archivos de cache
+*.pidb
+*.svclog
+*.scc
+*.cache
+*.dbmdl
+
+## Archivos de publicación
+publish/
+*.Publish.xml
+*.pubxml
+*.pubxml.user
+
+## Archivos de test
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Archivos de IDE
+.idea/
+*.iml
+
+## Archivos de sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Archivos de backup
+*.bak
+*.tmp
+*.temp
+*.old
+
+## Archivos de logs
+*.log
+
+## Archivos de seguridad
+*.pfx
+*.snk
+
+## Archivos de estilo y análisis
+*.DotSettings
+*.editorconfig
+
+## Archivos de Docker
+docker-compose.override.yml
+bxf-nqpx-ixu
